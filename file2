@@ -1,5 +1,5 @@
 ec2-called as vm & server
 efs
-iam
+iam- identity access mangement
 ami
 vpc
