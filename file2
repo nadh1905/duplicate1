@@ -2,4 +2,5 @@ ec2-called as vm & server
 efs
 iam- identity access mangement
 ami
-vpc - virtual private cloud
+vpc - to create cider
+
