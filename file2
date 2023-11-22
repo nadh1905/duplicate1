@@ -1,6 +1,6 @@
 ec2-called as vm & server
-efs
+efs-elastic file system by windows
 iam- identity access mangement
 ami- amazon machine image by windows
 vpc - to create cider
-
+all the above services are in aws
