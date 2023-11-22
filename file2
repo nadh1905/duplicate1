@@ -1,5 +1,6 @@
 ec2-called as vm & server
 efs-elastic file system by windows
+efs- it is a one of storage in aws by vm
 iam- identity access mangement
 ami- amazon machine image by windows
 vpc - to create cider
