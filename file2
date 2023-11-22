@@ -1,6 +1,6 @@
 ec2-called as vm & server
 efs
 iam- identity access mangement
-ami
+ami- amazon machine image by windows
 vpc - to create cider
 
